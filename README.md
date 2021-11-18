@@ -1,16 +1,21 @@
 ### Hi there 👋
 
-<!--
-**Akashmathwani/Akashmathwani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am **Akash Mathwani**, I have 2+ years of experience in Software Development.I graduated from IIT Ropar in 2019.
 
-Here are some ideas to get you started:
+For the last 2 years, I am working on an orchestrator which uses GraphQL and NodeJs to deliver all business values. Which includes working with more than 20 microservices and many clients which supports the whole e-commerce business.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Along with this I have worked on some freelance projects on different platforms. Connect, if want to work/contribute/hire for following tech:
+
+* GraphQL
+* NodeJs
+* Shopify Apps
+* Product Development
+* E-Commerce
+* Flutter
+* Docker
+* Datadog
+* Splunk
+* AppDynamics
+
+- 📫 Reach me on +91-9888927389 / mathwaniakash@gmail.com
+
