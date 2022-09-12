@@ -1,21 +1,14 @@
 ### Hi there 👋
 
-I am **Akash Mathwani**, I have 2.5+ years of experience in Software Development.I graduated from IIT Ropar in 2019.
+I am an Experienced Software Developer and Freelancer having 3 years of experience helping clients build new products or support businesses with tech. Worked with big e‐commerce organisations like Tesco UK, RainbowShops USA, and BlockAsset UK. Have experience with Full Stack development with MERN stack, GraphQL applications and typescript. Currently working with a web3 start-up, hungry to learn/work with web3 start-ups and projects.
 
-For the last 2 years, I am working on an orchestrator which uses GraphQL and NodeJs to deliver all business values. Which includes working with more than 20 microservices and many clients which supports the whole e-commerce business.
-
-Along with this I have worked on some freelance projects on different platforms. Connect, if want to work/contribute/hire for following tech:
-
-* GraphQL
-* NodeJs
-* Shopify Apps
-* Product Development
-* E-Commerce
-* Flutter
-* Docker
-* Datadog
-* Splunk
-* AppDynamics
+- Hosted Blockasset backend from scratch using Nestjs and MongoDB.
+- Lead and delivered an E-commerce store that supports web2 and web3 user journeys
+- Contributed to different web3 projects like: 
+     - minting tokens using Solana.
+     - dynamic token pricing using strata protocol       - listening to program accounts and integrations with backend.
+- Contributed to Tesco with orchestration layer based on Nodejs and GraphQL
+- Have built a connector for Akeneo -> Shopify for Products and Inventories sync
 
 - 📫 Reach me on +91-9888927389 / mathwaniakash@gmail.com
 
