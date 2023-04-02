@@ -1,14 +1,9 @@
-### Hi there 👋
+Hi there! 👋
 
-I am an Experienced Software Developer and Freelancer having 3 years of experience helping clients build new products or support businesses with tech. Worked with big e‐commerce organisations like Tesco UK, RainbowShops USA, and BlockAsset UK. Have experience with Full Stack development with MERN stack, GraphQL applications and typescript. Currently working with a web3 start-up, hungry to learn/work with web3 start-ups and projects.
+I am an experienced software developer and freelancer with over 3 years of experience helping clients build new products or support businesses with tech. I have worked with well-known e-commerce organizations such as Tesco UK, RainbowShops USA, and BlockAsset UK. My expertise lies in Full Stack development using MERN stack, GraphQL applications, and Typescript. Currently, I am working with a web3 startup and I am eager to learn and work with web3 startups and projects.
 
-- Hosted Blockasset backend from scratch using Nestjs and MongoDB.
-- Lead and delivered an E-commerce store that supports web2 and web3 user journeys
-- Contributed to different web3 projects like: 
-     - minting tokens using Solana.
-     - dynamic token pricing using strata protocol       - listening to program accounts and integrations with backend.
-- Contributed to Tesco with orchestration layer based on Nodejs and GraphQL
-- Have built a connector for Akeneo -> Shopify for Products and Inventories sync
+Some of my notable achievements include hosting Blockasset backend from scratch using Nestjs and MongoDB. I also led and delivered an E-commerce store that supports both web2 and web3 user journeys. I have also contributed to various web3 projects, such as minting tokens using Solana and dynamic token pricing using Strata protocol by listening to program accounts and integrating with the backend. I have also contributed to Tesco by developing an orchestration layer based on Node.js and GraphQL.
 
-- 📫 Reach me on +91-9888927389 / mathwaniakash@gmail.com
+In addition, I have built a connector for Akeneo to Shopify for products and inventory sync.
 
+Feel free to reach out to me via phone at +91-9888927389 or email at mathwaniakash@gmail.com.
